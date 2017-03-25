@@ -1,0 +1,26 @@
+header {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+body {
+    font-family: "Arial", Arial, sans-serif;
+    margin-left: 225px;
+    margin-right: 225px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: black;
+    color: #D3D3D3;
+
+}
+.work{
+    font-size: 20px;
+    text-decoration: bold;
+}
+#next{
+    font-size:20px;
+    text-decoration: italic;
+}
+footer{
+    font-size: 10px;
+    font-style: italic;
+}
